@@ -1,0 +1,23 @@
+git101style.css
+body {
+	margin: 0;
+	font-family: Helvetica;
+	color: #07356d;
+}
+
+#title {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100hv;
+	font-family: Helvetica;
+	font-style: light;
+	font-color: #FF6161
+}
+
+#img {
+    height:10px;
+    width: 10px;
+    border-radius: 50px
+    
+}
